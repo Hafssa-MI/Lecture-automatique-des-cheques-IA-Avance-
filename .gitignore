@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# Jeux de données du cours : fournis par l'enseignant, non redistribués
+*.npz
+!data/exemples.npz
+
+# Fichiers de reprise d'entraînement
+*_ckpt.weights.h5

@@ -1,0 +1,6 @@
+streamlit>=1.40
+tensorflow>=2.20,<2.22
+numpy
+pandas
+pillow
+scipy
