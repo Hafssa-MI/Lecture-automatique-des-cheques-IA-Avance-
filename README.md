@@ -1,8 +1,10 @@
 # Lecture automatique des chèques
 
-Étude de cas 1 du module Advanced Artificial Intelligence (M2 SDIA, ENSET Mohammedia).
-Quatre jalons sur la même tâche : lire le montant d'un chèque, détecter les altérations
+- Étude de cas 1 du module Advanced Artificial Intelligence (M2 SDIA, ENSET Mohammedia).
+- Quatre jalons sur la même tâche : lire le montant d'un chèque, détecter les altérations
 et décider quand la lecture est assez sûre pour être automatisée.
+- Auteurs : Hafssa Mifah Idrissi - Hanane Ait Lhaj - Fatima Zahra Lasfar
+- Lien app : https://lecture-automatique-des-cheques.streamlit.app/
 
 ## Contenu
 
@@ -44,7 +46,6 @@ scikit-learn 1.6.1, NumPy 2.1.3.
    sur Drive et repris automatiquement.
 3. Les graines sont fixées (`SEED = 0`) ; les résultats GPU peuvent varier légèrement d'une exécution à l'autre.
 
-Fichiers volumineux (jeux de données complets, sauvegardes de reprise) : <lien Drive à ajouter>.
 
 ## Protocole
 
